@@ -1,3 +1,4 @@
 # TMX6900
 
 コミット
+CODEOWNERSチェック
