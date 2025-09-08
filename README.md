@@ -6,3 +6,5 @@ CODEOWNERSチェック
 forkしてのチェック
 
 管理者でない、コントリビューターとしての更新
+
+CODEWONERSのコミット
