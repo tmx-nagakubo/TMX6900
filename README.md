@@ -2,3 +2,5 @@
 
 コミット
 CODEOWNERSチェック
+
+forkしてのチェック
